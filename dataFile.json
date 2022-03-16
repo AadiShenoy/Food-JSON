@@ -1,189 +1,189 @@
 [
   {
     "title": "Chicken Tawa Fry",
-    "image": "/img/gallery/img_1.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_1.jpg",
     "category": "nonveg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
   },
   {
     "title": "Paneer Lababdar",
-    "image": "/img/gallery/img_2.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_2.jpg",
     "category": "veg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
   },
   {
     "title": "Anjal Rava Fry",
-    "image": "/img/gallery/img_3.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_3.jpg",
     "category": "nonveg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
   },
   {
     "title": "Paneer Dum Biryani",
-    "image": "/img/gallery/img_4.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_4.jpg",
     "category": "veg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
   },
   {
     "title": "Paneer Chilli",
-    "image": "/img/gallery/img_5.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_5.jpg",
     "category": "veg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
   },
   {
     "title": "Cheese-veg nachos",
-    "image": "/img/gallery/img_6.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_6.jpg",
     "category": "veg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
   },
   {
     "title": "Aloo Paratha",
-    "image": "/img/gallery/img_7.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_7.jpg",
     "category": "veg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
   },
   {
     "title": "Crispy Paneer Burger",
-    "image": "/img/gallery/img_8.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_8.jpg",
     "category": "veg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
   },
   {
     "title": "Paneer Gheeroast",
-    "image": "/img/gallery/img_9.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_9.jpg",
     "category": "veg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
   },
   {
     "title": "Soya chilli",
-    "image": "/img/gallery/img_11.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_11.jpg",
     "category": "veg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
   },
   {
     "title": "Desi Egg Noodles",
-    "image": "/img/gallery/img_12.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_12.jpg",
     "category": "nonveg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
   },
   {
     "title": "Egg Chilli",
-    "image": "/img/gallery/img_13.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_13.jpg",
     "category": "nonveg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
   },
   {
     "title": "Panner Malai tikka",
-    "image": "/img/gallery/img_14.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_14.jpg",
     "category": "veg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
   },
   {
     "title": "Cheese Garlic Maggie",
-    "image": "/img/gallery/img_15.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_15.jpg",
     "category": "veg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
   },
   {
     "title": "Crispy Paneer Fingers",
-    "image": "/img/gallery/img_16.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_16.jpg",
     "category": "veg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
   },
   {
     "title": "Paneer Butter Garlic",
-    "image": "/img/gallery/img_17.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_17.jpg",
     "category": "veg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
   },
   {
     "title": "Tri-color Paneer Tikka",
-    "image": "/img/gallery/img_18.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_18.jpg",
     "category": "veg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
   },
   {
     "title": "Baby Corn Pepper",
-    "image": "/img/gallery/img_19.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_19.jpg",
     "category": "veg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
   },
   {
     "title": "Paneer Manchurian",
-    "image": "/img/gallery/img_20.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_20.jpg",
     "category": "veg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
   },
   {
     "title": "Anjal Tawa Fry",
-    "image": "/img/gallery/img_21.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_21.jpg",
     "category": "nonveg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
   },
   {
     "title": "Butter Chicken",
-    "image": "/img/gallery/img_22.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_22.jpg",
     "category": "nonveg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
   },
   {
     "title": "Tandoori Paneer Tikka",
-    "image": "/img/gallery/img_23.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_23.jpg",
     "category": "veg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
   },
   {
     "title": "Soya nuggets",
-    "image": "/img/gallery/img_24.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_24.jpg",
     "category": "veg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
   },
   {
     "title": "Egg Gheeroast",
-    "image": "/img/gallery/img_10.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_10.jpg",
     "category": "nonveg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
   },
   {
     "title": "Kadai Paneer",
-    "image": "/img/gallery/img_25.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_25.jpg",
     "category": "veg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
   },
   {
     "title": "Desi Egg Pastha",
-    "image": "/img/gallery/img_26.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_26.jpg",
     "category": "nonveg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
   },
   {
     "title": "Baby Corn Chilli",
-    "image": "/img/gallery/img_27.jpg",
+    "image": "https://aadishenoy.github.io/Food-JSON/gallery/img_27.jpg",
     "category": "veg",
     "ingredients": "  Onion, Capsicum, Tomato, Paneer, Hung Curd, Coriender leaves, Turmeric Powder, Chilly Powder, Salt, Tikka Masala, Kasuri Methi, Gharam Masala",
     "instructions": " For the marination take a bowl and add Hung curd to it, add chilly powder, a pinch of turmeric powder, gharam masala powder, a spoon of tikka masala, crushed kasuri methi, chopped Coriender leaves and salt as per taste. Add diced veggies and paneer and mix it gently. Keep it aside for atleast 20-30min. Then insert the veggies and paneer to screwer and cook it directly in gas flame. Keep turning the screwer, apply butter on each side and your paneer tikka is ready."
